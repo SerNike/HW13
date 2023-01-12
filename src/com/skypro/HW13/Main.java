@@ -8,6 +8,5 @@ public class Main {
         System.out.println(war.getAuthor());
         System.out.println(nos);
         System.out.println(nos.equals(war));
-        System.out.println();
     }
 }
